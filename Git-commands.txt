@@ -1,0 +1,26 @@
+mkdir - create new directory
+cd file name - to enter into a file
+type nul > filename.txt - create new file
+ren "oldfilename.txt" "newfilename.txt" - to change file name
+del filename.txt - to delete the file
+dir - get info about directory
+git init- to link git
+git status - see all previous record 
+git add (file name or .)- to add file to git
+git restore --staged filename.txt - to remove file from git
+git commit -m "message" - to commit changes into record
+type filename.txt - to see data of the file
+notepad filename.txt - open and make changes in file
+git log - to see edit log 
+git reset (roleback point code) - to roleback to that given point
+git stash - to save changes locally and roleback to previos commit point
+git stash pop - all local saved steps will re-appear 
+git stash clear - to clear all stash data 
+git remote add origin repositorylink - to link repository to command prompt (origin for own respository)
+git push origin master - push data to your linked github account
+git branch newbranchname - to create new branch
+git checkout branchname - to switch into given branch
+git merge branchname - to merge given branch with main branch
+git remote -v - to get linked repository link
+git clone urllink - to make a clone of that code inside your storage
+git remote add upstream repositorylink - to link repository to command prompt (upstream for forked respository)
